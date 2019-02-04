@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: grey;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 40px;
+    margin 20px;
+}
+
+headline {
+    background-color: black;
+    font-size: 25px;
+    padding: 30px;
+    width: 100%;
+    color: white;
+    display: block;
+    max-width: 1200px;
+}
+
+span {
+    background-color: #636e72;
+}
