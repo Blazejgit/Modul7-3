@@ -3,7 +3,7 @@
 }
 
 .container {
-    background-color: grey;
+    background-color: blue;
     width: 100%;
     max-width: 1200px;
     margin: 0 auto;
@@ -13,7 +13,7 @@
 }
 
 headline {
-    background-color: black;
+    background-color: red;
     font-size: 25px;
     padding: 30px;
     width: 100%;
